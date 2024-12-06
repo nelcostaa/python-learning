@@ -8,14 +8,9 @@ pesquisa_ativa = True
 
 while pesquisa_ativa:
     nome = input(nome_prompt)
+    lugar = input(lugar_prompt)
 
-    nome_prompt = [nome] = lug
-continuar_nome, lugar in respostas.items():
-
-    continuar = input(continuar
     respostas[nome] = lugar
-continuar_
-continuar_nome, lugar in respostas.items():
 
     continuar = input(continuar_prompt)
     if continuar == "nao":
