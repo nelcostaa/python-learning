@@ -1,0 +1,6 @@
+
+[tool.ruff]
+line-length = 80
+select = ["E", "F"]
+extend-ignore = ["BLK"]  # Ensure Black-related checks are off
+fix = true

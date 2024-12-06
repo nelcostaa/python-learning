@@ -1,0 +1,5 @@
+indent-width = 4
+[format]
+docstring-code-format = true
+docstring-code-line-length = 20
+line-length = 80
