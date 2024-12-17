@@ -1,3 +1,6 @@
+"""Classe que pode ser usada para representar um restaurante"""
+
+
 class Restaurante:
     """uma classe que representa um restaurente"""
 
@@ -13,11 +16,3 @@ class Restaurante:
     def abrir_restaurante(self):
         """Mostra uma mensagem para abrir o restaurante"""
         print(f"\nO {self.nome_restaurante.title()} esta aberto!")
-
-
-meu_restaurante = Restaurante("Outback", "Americana")
-print(meu_restaurante.nome_restaurante)
-print(meu_restaurante.tipo_cozinha)
-
-meu_restaurante.descrever_restaurante()
-meu_restaurante.abrir_restaurante()
