@@ -24,6 +24,8 @@ class Restaurante:
         self.qntd_servidas = qntd_servidas
 
     def incrementar_qntd_servidas(self, servidos):
+        """Aumenta a quantidade de pessoas servidas conforme valor
+        fornecido"""
         self.qntd_servidas += servidos
 
 
@@ -37,5 +39,4 @@ meu_restaurante.mostrar_qntd_servidas()
 meu_restaurante.definir_qntd_servidas(24)
 meu_restaurante.mostrar_qntd_servidas()
 
-meu_restaurante.incrementar_qntd_servidas(150)
 meu_restaurante.mostrar_qntd_servidas()
