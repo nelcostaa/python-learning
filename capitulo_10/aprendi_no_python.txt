@@ -1,0 +1,6 @@
+No python, aprendi a usar variaveis para armazenar informacoes
+No python, aprendi a criar listas com informacoes sobre uma coisa
+No python, aprendi a modificar uma lista com ionformacoes
+No python, aprendi a criar dicionarios com topico:conteudo
+
+
